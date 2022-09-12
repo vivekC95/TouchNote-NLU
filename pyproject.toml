@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "custom_nlu"
+version = "0.0.2"
+authors = [
+  { name="Vivek Chattopadhyay", email="vivekc0395@gmail.com" },
+]
+description = "A custom NLU which will try to represent like RASA NLU"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+
+[tool.setuptools]
+py-modules = ["pandas","scipy","sklearn","nltk","spacy","bs4","pandas_gbq","google_auth","mysql","protobuf","flask","flask_cache","fastparquet","pyarrow","PyYAML","wordcloud","pymysql","sqlalchemy","seaborn"]
