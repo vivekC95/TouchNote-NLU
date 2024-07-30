@@ -1,0 +1,3 @@
+['Birthday','Thank You', 'Anniversary', 'Everyday', 'Any Occasion', 'New Home',
+ 'Miss You', 'Congratulations', 'Get Well Soon', 'Sympathy', 'New Baby', 'Wedding',
+ 'Kindness', 'See You Soon', 'Love', 'Pride', 'Environmental']
