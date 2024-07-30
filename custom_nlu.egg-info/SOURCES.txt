@@ -1,0 +1,7 @@
+LICENSE
+README.md
+pyproject.toml
+custom_nlu.egg-info/PKG-INFO
+custom_nlu.egg-info/SOURCES.txt
+custom_nlu.egg-info/dependency_links.txt
+custom_nlu.egg-info/top_level.txt
